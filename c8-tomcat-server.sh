@@ -6,7 +6,7 @@ sudo amazon-linux-extras install java-openjdk11 -y
 #sudo yum install fontconfig java-11-openjdk -y 
 
     
-#Cmd to install tomcat on your host. 
+#Cmd to install tomcat on your host 
 #Variables
 req_tom_ver=9.0.73
 tom_m_ver=9
